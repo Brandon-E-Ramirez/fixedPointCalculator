@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(SWEN 4342) Floating Point Calculator [Final Project]", "(SWEN 4342) Floating Point Calculator [Final Project].csproj", "{5C15523F-5AB5-47CC-8AA6-77EF115094BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C15523F-5AB5-47CC-8AA6-77EF115094BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C15523F-5AB5-47CC-8AA6-77EF115094BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C15523F-5AB5-47CC-8AA6-77EF115094BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C15523F-5AB5-47CC-8AA6-77EF115094BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02631AB6-9245-42B6-AB80-94D624BEDCE6}
+	EndGlobalSection
+EndGlobal
